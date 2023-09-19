@@ -1,6 +1,6 @@
-# euage
+# eUage
 
-Program euage 1.0
+Program eUage 1.0
 
 Written in 2014 by Dr. Peter Zeitler (Lehigh University) in C++ to be more easily compatible with Rich Ketcham's (UT Austin) RDAAM code.
 	
