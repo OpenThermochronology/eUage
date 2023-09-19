@@ -13,14 +13,14 @@ The wrapper pulls in one input file with required sample data, and another with 
 
 ## Input Files
 
-# euage.in
+euage.in
 0 = apatite or 1 = zircon
 U ppm
 Th ppm
 Sm ppm
 grain radius in microns
 
-# euage_history.in
+euage_history.in
 number of tT pairs, i.e., 2
 tT points in descending order
 
