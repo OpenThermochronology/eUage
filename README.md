@@ -1,10 +1,10 @@
 # euage
 
 Program euage 1.0
-Written by Dr. Peter Zeitler (Lehigh University) in 2014 C++ to be more easily compatible with Rich Ketcham's RDAAM code.
+Written in 2014 by Dr. Peter Zeitler (Lehigh University) in C++ to be more easily compatible with Rich Ketcham's (UT Austin) RDAAM code.
 	
-This program was kludged together by grabbing the wrapper from my crankfunc code (i.e., Crank-Nicholson diffusion model),
-just using that to call RDAAM/ZRDAAM. Written only for apatite and zircon. 
+This program was kludged together by grabbing the wrapper from the crankfunc code (i.e., Crank-Nicholson diffusion) and just using that to call RDAAM/ZRDAAM. 
+Written only for apatite and zircon. 
 
 The Radiation Damage Accumulation & Annealing Model (RDAAM) in the mineral apatite is published in [Flowers et al. (2009)](https://doi.org/10.1016/j.gca.2009.01.015). 
 The ZRDAAM is the radiation damage model for zircon published in [Guenthner et al. (2013)](https://doi.org/10.2475/03.2013.01).
