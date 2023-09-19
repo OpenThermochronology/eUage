@@ -2,7 +2,7 @@
 
 Program eUage 1.0
 
-Written in 2014 by Dr. Peter Zeitler (Lehigh University) in C++ to be more easily compatible with Rich Ketcham's (UT Austin) RDAAM code.
+Written in 2014 by Peter Zeitler (Lehigh University) in C++ to be more easily compatible with the RDAAM code written by Richard Ketcham (UT Austin).
 	
 This program was kludged together by grabbing the wrapper from the crankfunc code (i.e., Crank-Nicholson diffusion) and just using that to call RDAAM/ZRDAAM. 
 
