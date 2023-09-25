@@ -16,8 +16,8 @@ Sm ppm <br>
 grain radius in microns <br>
 
 ### euage_history.in <br>
-number of tT pairs, i.e., 2 <br>
-tT points in descending order <br>
+number of time-Temperature pairs, i.e., 2 <br>
+list t-T points in descending order <br>
 
 i.e., <br>
 2 <br>
